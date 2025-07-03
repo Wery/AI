@@ -1,0 +1,8 @@
+# Node
+frontend/node_modules/
+
+# Logs
+cra.log
+
+# Build outputs
+frontend/build/
