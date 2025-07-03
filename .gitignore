@@ -3,6 +3,16 @@ bin/
 obj/
 **/bin/
 **/obj/
+
 # Rider/VS settings
 *.user
-*.csproj.user
+*.csproj.use
+
+# Node
+frontend/node_modules/
+
+# Logs
+cra.log
+
+# Build outputs
+frontend/build/
