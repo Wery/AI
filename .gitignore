@@ -1,0 +1,8 @@
+# Ignore build outputs
+bin/
+obj/
+**/bin/
+**/obj/
+# Rider/VS settings
+*.user
+*.csproj.user
